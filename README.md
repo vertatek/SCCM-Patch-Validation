@@ -4,10 +4,13 @@ SCCM windows update Diagnostic Utility
 Change the options in the ./config/options.ini file
 
 """"
+
 Site:ABC
 
 CentralServer:primaryserver.fqdn.com
+
 """"
+
 
 
 servers in the utility must be in FQDN format.
